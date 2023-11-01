@@ -1,6 +1,6 @@
 ---
 name: User Story
-about: Criação de histórias
+about: Criação de histórias na metodologia AGIL
 title: ''
 labels: ''
 assignees: ''
